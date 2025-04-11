@@ -60,9 +60,8 @@ Este projeto foi desenvolvido como parte do programa de capacitação tecnológi
 ---
 
 ## 👥 Equipe
-- **Antonio Uriel** - [GitHub](https://github.com/uriel-ewerton/) | [E-mail](mailto:uriel.ewerton1@gmail.com)
 - **Alexssandra Sampaio** - [E-mail](mailto:alexsampaio.ufma@gmail.com)
-- **Joseane Everton** - [E-mail](mailto:josyaneeverton@gmail.com)
+
 
 ---
 
@@ -72,7 +71,7 @@ O projeto está hospedado na **Vercel**. Acesse o link de produção para intera
 ---
 
 ## 📄 Documentação
-Para mais detalhes sobre o processo de inscrição, consulte a [Documentação do Processo de Inscrição](#) (link fictício, substitua pelo real).
+Para mais detalhes sobre o processo de inscrição, consulte a Documentação do Processo de Inscrição.
 
 ---
 
